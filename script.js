@@ -1,5 +1,5 @@
 var lastmove=Date.now();
-let songList=["sare-jaha-flute-784.mp3","Main Khiladi Selfiee 320 Kbps.mp3","Kudiyee Ni Teri Selfiee 320 Kbps.mp3","Naiyo Lagda Kisi Ka Bhai Kisi Ki Jaan 320 Kbps.mp3","Pyaar Hota Kayi Baar Hai Tu Jhoothi Main Makkaar 320 Kbps.mp3","Saara Zamaana Khussh 320 Kbps.mp3","tu-mera-koi-na-59338.mp3"];
+let songList=["Ik Naya Khuwab Atif Aslam 128 Kbps.mp3","sare-jaha-flute-784.mp3","Main Khiladi Selfiee 320 Kbps.mp3","Kudiyee Ni Teri Selfiee 320 Kbps.mp3","Naiyo Lagda Kisi Ka Bhai Kisi Ki Jaan 320 Kbps.mp3","Pyaar Hota Kayi Baar Hai Tu Jhoothi Main Makkaar 320 Kbps.mp3","Saara Zamaana Khussh 320 Kbps.mp3","tu-mera-koi-na-59338.mp3"];
 let masterPlay=document.getElementById("masterPlay");
 let prevSong=document.getElementById("prevSong");
 let nextSong=document.getElementById("nextSong");
